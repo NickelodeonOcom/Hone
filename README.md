@@ -35,7 +35,9 @@ Each iteration of the system learns from its past states, benchmarks, and execut
 
 ## 🧠 The Hone Cycle
 
-A[Write Code in Origin LANGUAGE] --> B[Run & Monitor Execution]
+```mermaid
+graph TD
+A[Write Code in Origin] --> B[Run & Monitor Execution]
 B --> C[Analyze Performance + Logic]
 C --> D[Generate Self-Feedback]
 D --> E[Mutate Origin Code]
