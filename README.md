@@ -1,6 +1,6 @@
 # 🧠 Hone — The Self-Improving AI Programmer
 ### Built with the Origin Language, on python
-
+STILL IN PRODUCTION
 ---
 
 ## 🚀 Overview
